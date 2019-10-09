@@ -6,4 +6,4 @@ To view the Artemis file containing promoters identified from Cappable-seq first
 
 To download and install Artemis please follow this link http://sanger-pathogens.github.io/Artemis/Artemis/ and select the appropriate operating system. 
 
-
+![](Images/Artemis_screenshot_1.png)
