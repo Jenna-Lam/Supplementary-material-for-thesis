@@ -20,3 +20,11 @@ Select the GenBank file and open the file. If a warning message appears asking t
 
 ![](Images/Artemis_screenshot_2.png)
 
+Once the GenBank file has been loaded you will be able to scroll across the annotated genome. To add the promoter information, click File > Read An Entry 
+
+![](Images/Artemis_screenshot_3.png)
+
+Before selecting for the Cappable-seq_promoters.txt file, change the file format to > All files to enable selection.
+
+![](Images/Artemis_screenshot_4.png)
+
