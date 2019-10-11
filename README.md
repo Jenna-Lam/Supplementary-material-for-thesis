@@ -28,3 +28,9 @@ Before selecting for the Cappable-seq_promoters.txt file, change the file format
 
 ![](Images/Artemis_screenshot_4.png)
 
+Once the file is loaded, you will be able to view the promoters visually and also highlight each promoter. At the bottom there is information on each annotated promoter including the name, type, sigma factor preference, source, enrichment, and TSS identifier. 
+
+![](Images/Artemis_screenshot_5.png)
+
+
+
