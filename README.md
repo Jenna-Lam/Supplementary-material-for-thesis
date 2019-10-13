@@ -32,5 +32,7 @@ Once the file is loaded, you will be able to view the promoters visually and als
 
 ![](Images/Artemis_screenshot_5.png)
 
+There is also a GFF file 11168_genome_with_ncRNAs.gff3.gff containing all published and novel ncRNAs identified using toRNAdo, which can be read the same way into Artemis. The source of the ncRNA is shown in notes and there is the option to deselect the GFF file or the promoter information file as depicted by the red arrows. 
 
+![](Images/Artemis_screenshot_6.png)
 
