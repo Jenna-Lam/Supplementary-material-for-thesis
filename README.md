@@ -8,9 +8,9 @@ To download and install Artemis please follow this link http://sanger-pathogens.
 
 Once Artemis is installed, please download the Genbank file 11168_genbank.gb, the GFF file 11168_genome_with_ncRNAs.gff3.gff, and the file containing all the promoter information Cappable-seq_promoters.txt for visualisation on Artemis, which will greatly help with understanding the results for Chapter 4. 
 
-N.B. Although the GenBank file was downloaded from NCBI, the current version may have minor changes. The file we have used for analysis is 11168_genbank.gb but the viewer is free to download the latest version at https://www.ncbi.nlm.nih.gov/genome/149?genome_assembly_id=299213 
+N.B. Although the GenBank file was downloaded from NCBI, the current version may have minor changes. The file we have used for analysis is 11168_genbank.gb but feel free to download the latest version at https://www.ncbi.nlm.nih.gov/genome/149?genome_assembly_id=299213 
 
-If the viewer is not familiar with Artemis, there are instructions below to guide you through the process:
+If you are not familiar with Artemis, there are instructions below to guide you through the process:
 
 Open Artemis, and click File > Open ...
 
@@ -36,3 +36,14 @@ There is also a GFF file 11168_genome_with_ncRNAs.gff3.gff containing all publis
 
 ![](Images/Artemis_screenshot_6.png)
 
+If at any point you would prefer to remove one of the files/entries altogether, click on the Entries tab > Remove an Entry 
+
+![](Images/Artemis_screenshot_7.png)
+
+To search the files for a specific gene or annotated features such as promoters, open the navigator by clicking Go > Navigator
+
+![](Images/Artemis_screenshot_8.png)
+
+The navigator box will open and and there are options to enter the base (position number which is in the forward direction), gene name (including names of annotated features), qualifier value (for example key words which are in the despcription of the product or notes), key, base pattern, or amino acid sequence. 
+
+![](Images/Artemis_screenshot_9.png)
